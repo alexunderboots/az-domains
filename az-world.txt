@@ -9,8 +9,8 @@ docker.com
 docker.io
 dockerstatic.com
 #proxmox.com
-githubusercontent.com
-github.com
+#githubusercontent.com
+#github.com
 
 amazonaws.com
 www.stickypassword.com.cdn.cloudflare.net
