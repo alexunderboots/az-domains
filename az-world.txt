@@ -42,55 +42,63 @@ tonymacx86.com
 xerox.com
 zerotier.com
 
+# synology
+gofile.me
+quickconnect.to
+synology.com
+synologydownload.com
+synologyupdate.com
+
+# AI
 perplexity.ai
 browser-intake-datadoghq.com
 
 # youtube google
-youtube.com
-youtube.ru
-youtu.be
-yt.be
-googlevideo.com
-googleapis.com
-googletagmanager.com
-ytimg.com
-google.com
-google.ru
-yt3.ggpht.com
-play.google.com
-gvt1.com
-gvt2.com
-gstatic.com
-deepmind.com
-deepmind.google
-google.dev
-#connectivitycheck.gstatic.com
+#youtube.com
+#youtube.ru
+#youtu.be
+#yt.be
+#googlevideo.com
+#googleapis.com
+#googletagmanager.com
+#ytimg.com
+#google.com
+#google.ru
+#yt3.ggpht.com
+#play.google.com
+#gvt1.com
+#gvt2.com
+#gstatic.com
+#deepmind.com
+#deepmind.google
+#google.dev
+##connectivitycheck.gstatic.com
 
 # instagram facebook x
-instagram.com
-i.instagram.com
-cdninstagram.com
-facebook.com
-fb.com
-fbcdn.net
-ig.me
-messenger.com
-theins.ru
-twimg.com
-twitter.com
-x.com
-t.co
+#instagram.com
+#i.instagram.com
+#cdninstagram.com
+#facebook.com
+#fb.com
+#fbcdn.net
+#ig.me
+#messenger.com
+#theins.ru
+#twimg.com
+#twitter.com
+#x.com
+#t.co
 
 # applemusic
-aod-ssl.itunes.apple.com
-aod.itunes.apple.com
-audio-ssl.itunes.apple.com
-audio.itunes.apple.com
-mvod.itunes.apple.com
-streamingaudio.itunes.apple.com
-applemusic.com
-blobstore.apple.com
-music.apple.com
+#aod-ssl.itunes.apple.com
+#aod.itunes.apple.com
+#audio-ssl.itunes.apple.com
+#audio.itunes.apple.com
+#mvod.itunes.apple.com
+#streamingaudio.itunes.apple.com
+#applemusic.com
+#blobstore.apple.com
+#music.apple.com
 
 # aerial dream
 sylvan.apple.com
@@ -117,11 +125,6 @@ stripe.com
 commandbar.com
 paddle.com
 paddle.net
-gofile.me
-quickconnect.to
-synology.com
-synologydownload.com
-synologyupdate.com
 #livedune.com
 
 #telegram
