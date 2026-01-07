@@ -9,7 +9,7 @@ ubnt.com
 #docker.io
 #dockerstatic.com
 #proxmox.com
-#githubusercontent.com
+githubusercontent.com
 
 amazonaws.com
 www.stickypassword.com.cdn.cloudflare.net
