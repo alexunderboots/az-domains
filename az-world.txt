@@ -5,9 +5,9 @@ ubnt.com
 # Debian
 #debian.org
 #debian.map.fastlydns.net
-#docker.com
-#docker.io
-#dockerstatic.com
+docker.com
+docker.io
+dockerstatic.com
 #proxmox.com
 githubusercontent.com
 
