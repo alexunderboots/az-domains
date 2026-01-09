@@ -1,3 +1,7 @@
 # http://az-local.antizapret/list/?url=https://raw.githubusercontent.com/alexunderboots/az-domains/main/az-local.txt
 
 xpenology.tech
+
+# Aliexpress
+alicdn.com
+assets.aliexpress-media.com
