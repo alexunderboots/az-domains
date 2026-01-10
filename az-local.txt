@@ -5,3 +5,4 @@ xpenology.tech
 # Aliexpress
 alicdn.com
 assets.aliexpress-media.com
+blikvm.com
