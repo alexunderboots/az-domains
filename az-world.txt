@@ -102,8 +102,8 @@ browser-intake-datadoghq.com
 #music.apple.com
 
 # Aerial dream
-sylvan.apple.com
-aaplimg.com
+#sylvan.apple.com
+#aaplimg.com
 
 # Discord
 discord.com
