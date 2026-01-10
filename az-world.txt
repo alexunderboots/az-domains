@@ -13,7 +13,7 @@ dockerstatic.com
 #github.com
 
 # huaway appgallery
-appfinder.online
+#appfinder.online
 
 amazonaws.com
 www.stickypassword.com.cdn.cloudflare.net
