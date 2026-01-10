@@ -12,6 +12,9 @@ dockerstatic.com
 #githubusercontent.com
 #github.com
 
+# huaway appgallery
+appfinder.online
+
 amazonaws.com
 www.stickypassword.com.cdn.cloudflare.net
 miro.com
