@@ -3,8 +3,7 @@
 xpenology.tech
 
 # Akamai
-#akamaiedge.net
-
+akamaiedge.net
 misic.apple.com
 
 # Aliexpress
