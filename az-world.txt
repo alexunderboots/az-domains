@@ -172,7 +172,6 @@ tiktokv.us
 tiktokw.us
 ttwstatic.com
 p16-tiktokcdn-com.akamaized.net
-spotify.com
 theaudiodb.com
 
 # Cinema
@@ -238,7 +237,7 @@ medium.com
 myfonts.com
 ntc.party
 remove.bg
-spotify.com
+#spotify.com
 stackoverflow.com
 trello.com
 
