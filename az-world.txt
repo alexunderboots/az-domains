@@ -242,15 +242,5 @@ spotify.com
 stackoverflow.com
 trello.com
 
-# XXX
-pornhub.com
-phncdn.com
-pornolab.net
-indexxx.com
-coomer.su
-kemono.su
-xv-ru.com
-xvideos-cdn.com
-
 canva.com
 kaleido.ai
