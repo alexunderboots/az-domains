@@ -2,6 +2,9 @@
 
 xpenology.tech
 
+# Akamai
+akamaiedge.net
+
 # Aliexpress
 alicdn.com
 assets.aliexpress-media.com
