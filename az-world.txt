@@ -242,5 +242,9 @@ spotify.com
 stackoverflow.com
 trello.com
 
+# XXX
+pornhub.com
+phncdn.com
+
 canva.com
 kaleido.ai
