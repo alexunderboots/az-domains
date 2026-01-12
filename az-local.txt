@@ -3,7 +3,9 @@
 xpenology.tech
 
 # Akamai
-dsce9.akamaiedge.net
+akadns.net
+akamaiedge.net
+edgekey.net
 misic.apple.com
 
 # Aliexpress
