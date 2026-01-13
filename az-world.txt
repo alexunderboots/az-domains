@@ -237,9 +237,12 @@ medium.com
 myfonts.com
 ntc.party
 remove.bg
-#spotify.com
 stackoverflow.com
 trello.com
+
+# Spotify
+spotify.com
+tospotify.com
 
 # XXX
 pornhub.com
