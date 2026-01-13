@@ -12,6 +12,7 @@ edgekey.net
 music.apple.com
 
 spotify.com
+tospotify.com
 
 # Aliexpress
 alicdn.com
