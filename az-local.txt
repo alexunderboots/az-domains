@@ -7,7 +7,11 @@ proxmox.com
 akadns.net
 akamaiedge.net
 edgekey.net
+
+# Apple
 music.apple.com
+
+spotify.com
 
 # Aliexpress
 alicdn.com
