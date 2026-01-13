@@ -243,6 +243,7 @@ trello.com
 # Spotify
 spotify.com
 tospotify.com
+spotifycdn.com
 
 # XXX
 pornhub.com
