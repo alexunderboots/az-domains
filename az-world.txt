@@ -1,3 +1,5 @@
+2ip.io
+
 # UniFi
 ui.com
 ubnt.com
