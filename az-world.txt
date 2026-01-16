@@ -247,6 +247,7 @@ spotifycdn.com
 
 # XXX
 pornhub.com
+pornhub.org
 phncdn.com
 
 canva.com
