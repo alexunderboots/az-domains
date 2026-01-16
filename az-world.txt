@@ -246,9 +246,9 @@ tospotify.com
 spotifycdn.com
 
 # XXX
-pornhub.com
-pornhub.org
-phncdn.com
+#pornhub.com
+#pornhub.org
+#phncdn.com
 
 canva.com
 kaleido.ai
