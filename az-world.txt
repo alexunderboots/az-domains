@@ -29,6 +29,7 @@ whatsapp.com
 
 # Drivers
 4pda.to
+canon
 cd4o.com
 ftp.hp.com
 dlcdnets.asus.com
