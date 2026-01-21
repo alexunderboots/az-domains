@@ -1,6 +1,8 @@
 2ip.io
 
 play.google.com
+play.googleapis.com
+play-fe.googleapis.com
 
 # UniFi
 ui.com
