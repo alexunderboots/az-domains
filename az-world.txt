@@ -1,5 +1,7 @@
 2ip.io
 
+play.google.com
+
 # UniFi
 ui.com
 ubnt.com
