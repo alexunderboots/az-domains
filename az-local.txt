@@ -2,6 +2,7 @@
 
 xpenology.tech
 proxmox.com
+regex101.com
 
 # Akamai
 akadns.net
