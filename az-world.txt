@@ -63,6 +63,7 @@ quickconnect.to
 synology.com
 synologydownload.com
 synologyupdate.com
+#synocommunity.com
 
 # AI
 perplexity.ai
