@@ -2,6 +2,7 @@
 
 gvt1.com
 googleapis.com
+google.eu
 dl.google.com
 play.google.com
 play.googleapis.com
