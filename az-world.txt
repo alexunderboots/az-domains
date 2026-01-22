@@ -1,5 +1,6 @@
 2ip.io
 
+gvt1.com
 googleapis.com
 play.google.com
 play.googleapis.com
