@@ -1,5 +1,6 @@
 2ip.io
 
+googleapis.com
 play.google.com
 play.googleapis.com
 play-fe.googleapis.com
