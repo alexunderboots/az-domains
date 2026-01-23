@@ -9,6 +9,9 @@ akadns.net
 akamaiedge.net
 edgekey.net
 
+# Drivers HW
+cdn.sipeed.com
+
 # Apple
 music.apple.com
 
