@@ -10,7 +10,8 @@ akamaiedge.net
 edgekey.net
 
 # Drivers HW
-cdn.sipeed.com
+#cdn.sipeed.com
+sipeed.com
 
 # Apple
 music.apple.com
