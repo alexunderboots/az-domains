@@ -12,6 +12,7 @@ edgekey.net
 # Drivers HW
 #cdn.sipeed.com
 sipeed.com
+qiniudns.com
 
 # Apple
 music.apple.com
