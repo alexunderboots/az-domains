@@ -1,8 +1,10 @@
 # http://az-local.antizapret/list/?url=https://raw.githubusercontent.com/alexunderboots/az-domains/main/az-local.txt
 
-xpenology.tech
+# DevOps
+mitmproxy.org
 proxmox.com
 regex101.com
+xpenology.tech
 
 # Akamai
 akadns.net
