@@ -4,7 +4,6 @@
 mitmproxy.org
 proxmox.com
 regex101.com
-xpenology.tech
 
 # Akamai
 akadns.net
@@ -15,6 +14,7 @@ edgekey.net
 #cdn.sipeed.com
 sipeed.com
 qiniudns.com
+xpenology.tech
 
 # Apple
 music.apple.com
