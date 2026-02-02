@@ -217,7 +217,6 @@ kinovibe.co
 kinozal.tv
 lampa.stream
 metaivi.com
-releases.yourok.ru
 skaz.tv
 themoviedb.org
 tmdb-image-prod.b-cdn.net
