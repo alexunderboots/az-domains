@@ -27,6 +27,9 @@ alicdn.com
 assets.aliexpress-media.com
 blikvm.com
 
+# Cinema Torr
+torrs.ru
+
 # XXX
 pornhub.com
 phncdn.com
