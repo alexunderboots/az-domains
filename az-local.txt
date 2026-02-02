@@ -28,6 +28,7 @@ assets.aliexpress-media.com
 blikvm.com
 
 # Cinema Torr
+releases.yourok.ru
 torrs.ru
 
 # XXX
