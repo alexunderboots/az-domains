@@ -6,9 +6,9 @@ proxmox.com
 regex101.com
 
 # Akamai
-akadns.net
-akamaiedge.net
-edgekey.net
+#akadns.net
+#akamaiedge.net
+#edgekey.net
 
 # Drivers HW
 #cdn.sipeed.com
