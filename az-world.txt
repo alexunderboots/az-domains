@@ -8,6 +8,7 @@ dl.google.com
 play.google.com
 play.googleapis.com
 play-fe.googleapis.com
+googleapis.cn
 
 # UniFi
 ui.com
