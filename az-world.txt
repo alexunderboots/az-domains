@@ -10,10 +10,6 @@ play.googleapis.com
 play-fe.googleapis.com
 googleapis.cn
 
-# UniFi
-ui.com
-ubnt.com
-
 # Debian
 #debian.org
 #debian.map.fastlydns.net
@@ -38,6 +34,16 @@ cdn.whatsapp.net
 whatsapp.com
 
 # Drivers
+# UniFi
+ui.com
+ubnt.com
+# Synology
+gofile.me
+quickconnect.to
+synology.com
+synologydownload.com
+synologyupdate.com
+#synocommunity.com
 4pda.to
 canon
 cd4o.com
@@ -53,19 +59,12 @@ developers.bas-ip.com
 domoticz.com
 insanelymac.com
 intel.com
+logiwebconnect.com
 macports.org
 openh264.org
 tonymacx86.com
 xerox.com
 zerotier.com
-
-# Synology
-gofile.me
-quickconnect.to
-synology.com
-synologydownload.com
-synologyupdate.com
-#synocommunity.com
 
 # AI
 perplexity.ai
