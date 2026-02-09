@@ -1,4 +1,5 @@
 # http://az-local.antizapret/list/?url=https://raw.githubusercontent.com/alexunderboots/az-domains/main/az-local.txt
+reddit.com
 
 # DevOps
 mitmproxy.org
