@@ -143,6 +143,7 @@ commandbar.com
 paddle.com
 paddle.net
 #livedune.com
+mandrillapp.com
 
 # Telegram
 telegram.org
