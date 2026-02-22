@@ -108,7 +108,7 @@ browser-intake-datadoghq.com
 
 # Apple
 apple.com
-cdn-apple.com
+appleid.cdn-apple.com
 
 # Applemusic
 #aod-ssl.itunes.apple.com
