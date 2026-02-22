@@ -106,6 +106,8 @@ browser-intake-datadoghq.com
 #x.com
 #t.co
 
+# Apple
+apple.com
 # Applemusic
 #aod-ssl.itunes.apple.com
 #aod.itunes.apple.com
