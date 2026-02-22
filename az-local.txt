@@ -19,7 +19,7 @@ qiniudns.com
 xpenology.tech
 
 # Apple
-apple.com
+#apple.com
 #music.apple.com
 
 spotify.com
