@@ -91,20 +91,35 @@ browser-intake-datadoghq.com
 #google.dev
 ##connectivitycheck.gstatic.com
 
-# Instagram facebook x
-#instagram.com
-#i.instagram.com
-#cdninstagram.com
-#facebook.com
-#fb.com
-#fbcdn.net
-#ig.me
-#messenger.com
-#theins.ru
+# Facebook Insta (Meta)
 #twimg.com
 #twitter.com
 #x.com
 #t.co
+cdninstagram.com
+conversionsapigateway.com
+facebook.com
+facebook.net
+facebookvirtualassistant.com
+fb.com
+fbcdn.net
+ig.me
+instagram.com
+licdn.com
+linkedin.com
+messenger.com
+meta.com
+oculus.com
+oculuscdn.com
+oculusvr.com
+theins.ru
+viewpointsfromfacebook.com
+viber.com
+vb.me
+whatsapp.com
+whatsapp.net
+wa.me
+deovr.com
 
 # Apple
 #apple.com
