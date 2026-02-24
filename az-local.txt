@@ -1,6 +1,8 @@
 # http://az-local.antizapret/list/?url=https://raw.githubusercontent.com/alexunderboots/az-domains/main/az-local.txt
 reddit.com
 
+appleid.cdn-apple.com
+
 thunderbird.net
 mozilla.org
 githubassets.com
