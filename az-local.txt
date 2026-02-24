@@ -2,6 +2,7 @@
 reddit.com
 
 appleid.cdn-apple.com
+apple.com
 
 thunderbird.net
 mozilla.org
