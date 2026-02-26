@@ -6,6 +6,8 @@ apple.com
 aaplimg.com
 icloud.com
 
+drawio-app.com
+
 # VK
 vk.com
 okcdn.ru
