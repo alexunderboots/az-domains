@@ -1,10 +1,10 @@
 2ip.io
 #microsoft.com
 
-appleid.cdn-apple.com
-apple.com
-aaplimg.com
-icloud.com
+#appleid.cdn-apple.com
+#apple.com
+#aaplimg.com
+#icloud.com
 
 gvt1.com
 googleapis.com
