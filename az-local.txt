@@ -1,10 +1,12 @@
 # http://az-local.antizapret/list/?url=https://raw.githubusercontent.com/alexunderboots/az-domains/main/az-local.txt
 reddit.com
 
-appleid.cdn-apple.com
+# Apple
 apple.com
+appleid.cdn-apple.com
 aaplimg.com
 icloud.com
+mzstatic.com
 
 drawio-app.com
 
