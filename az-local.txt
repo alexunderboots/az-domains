@@ -12,6 +12,7 @@ drawio-app.com
 
 # VK
 vk.com
+vkontakte.ru
 okcdn.ru
 userapi.com
 
