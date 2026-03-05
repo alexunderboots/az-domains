@@ -1,0 +1,11 @@
+||ntc.party^$dnsrewrite=130.255.77.28,client=az-local,important
+
+# UniFi Update
+# https://unifi.gryzlov.com/
+||fw-download.ubnt.com^$dnsrewrite=103.167.234.147,important
+||fw-update.ubnt.com^$dnsrewrite=103.167.234.147,important
+||fw-update.ui.com^$dnsrewrite=103.167.234.147,important
+||fw-download.ui.com^$dnsrewrite=103.167.234.147,important
+||apt.artifacts.ui.com^$dnsrewrite=103.167.234.147,important
+||apt-release-candidate.artifacts.ui.com^$dnsrewrite=103.167.234.147,important
+||apt-beta.artifacts.ui.com^$dnsrewrite=103.167.234.147,important
