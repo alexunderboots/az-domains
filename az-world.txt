@@ -177,7 +177,7 @@ xerox.com
 zerotier.com
 
 # AI
-perplexity.ai
+#perplexity.ai
 browser-intake-datadoghq.com
 
 # Youtube google
