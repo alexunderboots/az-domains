@@ -11,9 +11,9 @@ mzstatic.com
 drawio-app.com
 
 # VK
-vk.com
-vkontakte.ru
-okcdn.ru
+#vk.com
+#vkontakte.ru
+#okcdn.ru
 userapi.com
 
 thunderbird.net
@@ -53,7 +53,7 @@ releases.yourok.ru
 torrs.ru
 
 # XXX
-pornhub.com
+#pornhub.com
 phncdn.com
 pornolab.net
 indexxx.com
