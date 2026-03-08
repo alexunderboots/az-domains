@@ -8,6 +8,9 @@ aaplimg.com
 icloud.com
 mzstatic.com
 
+# chrome extension
+ocr.space
+
 drawio-app.com
 
 # VK
