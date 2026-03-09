@@ -27,6 +27,9 @@ githubassets.com
 mitmproxy.org
 proxmox.com
 regex101.com
+docker.com
+docker.io
+dockerstatic.com
 
 # Akamai
 #akadns.net
