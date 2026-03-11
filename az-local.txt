@@ -1,6 +1,10 @@
 # http://az-local.antizapret/list/?url=https://raw.githubusercontent.com/alexunderboots/az-domains/main/az-local.txt
 reddit.com
 
+unifi.alexunderboots.ru
+unifi.sc-gs.ru
+unifi.itstroy.pro
+
 # Apple
 apple.com
 appleid.cdn-apple.com
