@@ -147,6 +147,8 @@ whatsapp.com
 # UniFi
 ui.com
 ubnt.com
+stun.cloudflare.com
+turn.cloudflare.com
 # Synology
 gofile.me
 quickconnect.to
