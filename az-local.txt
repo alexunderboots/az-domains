@@ -26,6 +26,7 @@ userapi.com
 thunderbird.net
 mozilla.org
 githubassets.com
+githubusercontent.com
 
 # DevOps
 mitmproxy.org
