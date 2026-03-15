@@ -129,6 +129,7 @@ qwant.com
 #proxmox.com
 #githubusercontent.com
 #github.com
+cdn.jsdelivr.net
 
 # huaway appgallery
 #appfinder.online
