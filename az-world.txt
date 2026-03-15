@@ -1,19 +1,4 @@
 2ip.io
-#microsoft.com
-
-#appleid.cdn-apple.com
-#apple.com
-#aaplimg.com
-#icloud.com
-
-gvt1.com
-googleapis.com
-google.eu
-dl.google.com
-play.google.com
-play.googleapis.com
-play-fe.googleapis.com
-googleapis.cn
 
 # AI / LLM / Support ####################################
 anthropic.com
@@ -49,6 +34,15 @@ x.ai
 manus.im
 
 # Google Services & APIs ####################################
+gvt1.com
+googleapis.com
+google.eu
+dl.google.com
+play.google.com
+play.googleapis.com
+play-fe.googleapis.com
+googleapis.cn
+# Services & APIs ####################################
 ai.google.dev
 aisandbox-pa.googleapis.com
 aistudio.google.com
@@ -127,9 +121,7 @@ qwant.com
 #docker.io
 #dockerstatic.com
 #proxmox.com
-#githubusercontent.com
-#github.com
-# BentoPDF
+# BentoPDF ####################################
 #cdn.jsdelivr.net
 #jsdelivr.map.fastly.net
 
@@ -159,6 +151,7 @@ synology.com
 synologydownload.com
 synologyupdate.com
 #synocommunity.com
+# ####################################
 4pda.to
 canon
 cd4o.com
@@ -304,7 +297,7 @@ usercontent.dev
 # Winstore downloader ####################################
 store.rg-adguard.net
 
-# Download 1c ####################################
+# 1C Download ####################################
 workupload.com 
 
 byteoversea.com
