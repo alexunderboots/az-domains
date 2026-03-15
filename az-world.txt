@@ -129,8 +129,9 @@ qwant.com
 #proxmox.com
 #githubusercontent.com
 #github.com
-cdn.jsdelivr.net
-jsdelivr.map.fastly.net
+# BentoPDF
+#cdn.jsdelivr.net
+#jsdelivr.map.fastly.net
 
 # huaway appgallery
 #appfinder.online
