@@ -28,6 +28,7 @@ mozilla.org
 githubassets.com
 
 # DevOps
+cdn.jsdelivr.net
 mitmproxy.org
 proxmox.com
 regex101.com
