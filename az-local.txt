@@ -6,36 +6,36 @@ unifi.sc-gs.ru
 unifi.itstroy.pro
 
 # Apple ####################################
-apple.com
-appleid.cdn-apple.com
-aaplimg.com
-icloud.com
-mzstatic.com
+  apple.com
+  appleid.cdn-apple.com
+  aaplimg.com
+  icloud.com
+  mzstatic.com
 
 # chrome extension ####################################
-ocr.space
+  ocr.space
 
 drawio-app.com
 
 # VK ####################################
-#vk.com
-#vkontakte.ru
-#okcdn.ru
-userapi.com
+  #vk.com
+  #vkontakte.ru
+  #okcdn.ru
+  userapi.com
 
 thunderbird.net
 mozilla.org
 
 # DevOps ####################################
-mitmproxy.org
-proxmox.com
-regex101.com
-docker.com
-docker.io
-dockerstatic.com
-# Git
-githubassets.com
-githubusercontent.com
+  mitmproxy.org
+  proxmox.com
+  regex101.com
+  docker.com
+  docker.io
+  dockerstatic.com
+# Git ####################################
+  githubassets.com
+  githubusercontent.com
 
 
 # Akamai ####################################
