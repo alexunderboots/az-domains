@@ -5,7 +5,18 @@ unifi.alexunderboots.ru
 unifi.sc-gs.ru
 unifi.itstroy.pro
 
+# Akamai ####################################
+#akadns.net
+#akamaiedge.net
+#edgekey.net
+
+# Aliexpress ####################################
+  alicdn.com
+  assets.aliexpress-media.com
+
 # Apple ####################################
+#apple.com
+#music.apple.com
   apple.com
   appleid.cdn-apple.com
   aaplimg.com
@@ -15,16 +26,9 @@ unifi.itstroy.pro
 # chrome extension ####################################
   ocr.space
 
-drawio-app.com
-
-# VK ####################################
-  #vk.com
-  #vkontakte.ru
-  #okcdn.ru
-  userapi.com
-
-thunderbird.net
-mozilla.org
+# Cinema Torr ####################################
+  releases.yourok.ru
+  torrs.ru
 
 # DevOps ####################################
   mitmproxy.org
@@ -36,41 +40,38 @@ mozilla.org
 # Git ####################################
   githubassets.com
   githubusercontent.com
-
-
-# Akamai ####################################
-#akadns.net
-#akamaiedge.net
-#edgekey.net
+# ####################################
+  drawio-app.com
 
 # Drivers HW ####################################
+# sipeed ####################################
 #cdn.sipeed.com
-sipeed.com
-qiniudns.com
-xpenology.tech
+  sipeed.com
+# ####################################
+  blikvm.com
+  qiniudns.com
+  xpenology.tech
 
-# Apple ####################################
-#apple.com
-#music.apple.com
+# spotify ####################################
+  spotify.com
+  tospotify.com
 
-spotify.com
-tospotify.com
-
-# Aliexpress ####################################
-alicdn.com
-assets.aliexpress-media.com
-blikvm.com
-
-# Cinema Torr ####################################
-releases.yourok.ru
-torrs.ru
+# thunderbird ####################################
+  thunderbird.net
+  mozilla.org
 
 # XXX ####################################
 #pornhub.com
-phncdn.com
-pornolab.net
-indexxx.com
-coomer.su
-kemono.su
-xv-ru.com
-xvideos-cdn.com
+  phncdn.com
+  pornolab.net
+  indexxx.com
+  coomer.su
+  kemono.su
+  xv-ru.com
+  xvideos-cdn.com
+
+# VK ####################################
+#vk.com
+#vkontakte.ru
+#okcdn.ru
+  userapi.com
