@@ -5,19 +5,19 @@ unifi.alexunderboots.ru
 unifi.sc-gs.ru
 unifi.itstroy.pro
 
-# Apple
+# Apple ####################################
 apple.com
 appleid.cdn-apple.com
 aaplimg.com
 icloud.com
 mzstatic.com
 
-# chrome extension
+# chrome extension ####################################
 ocr.space
 
 drawio-app.com
 
-# VK
+# VK ####################################
 #vk.com
 #vkontakte.ru
 #okcdn.ru
@@ -26,7 +26,7 @@ userapi.com
 thunderbird.net
 mozilla.org
 
-# DevOps
+# DevOps ####################################
 mitmproxy.org
 proxmox.com
 regex101.com
@@ -38,34 +38,34 @@ githubassets.com
 githubusercontent.com
 
 
-# Akamai
+# Akamai ####################################
 #akadns.net
 #akamaiedge.net
 #edgekey.net
 
-# Drivers HW
+# Drivers HW ####################################
 #cdn.sipeed.com
 sipeed.com
 qiniudns.com
 xpenology.tech
 
-# Apple
+# Apple ####################################
 #apple.com
 #music.apple.com
 
 spotify.com
 tospotify.com
 
-# Aliexpress
+# Aliexpress ####################################
 alicdn.com
 assets.aliexpress-media.com
 blikvm.com
 
-# Cinema Torr
+# Cinema Torr ####################################
 releases.yourok.ru
 torrs.ru
 
-# XXX
+# XXX ####################################
 #pornhub.com
 phncdn.com
 pornolab.net
