@@ -1,118 +1,118 @@
 2ip.io
 
 # AI / LLM / Support ####################################
-anthropic.com
-auth.grokusercontent.com
-augmentcode.com
-document360.com
-document360.io
-chatgpt.com
-claude.ai
-codeium.com
-data.cline.bot
-elevenlabs.io
-genspark.ai
-grok.com
-groq.com
-hume.ai
-intercom.com
-intercom.io
-jetbrains.ai
-lgresearch.ai
-lightning.ai
-oaistatic.com
-oaiusercontent.com
-openai.com
-openrouter.ai
-recraft.ai
-reve.art
-sora.com
-sonara.ai
-support.anydesk.com
-trae.ai
-x.ai
-manus.im
+  anthropic.com
+  auth.grokusercontent.com
+  augmentcode.com
+  document360.com
+  document360.io
+  chatgpt.com
+  claude.ai
+  codeium.com
+  data.cline.bot
+  elevenlabs.io
+  genspark.ai
+  grok.com
+  groq.com
+  hume.ai
+  intercom.com
+  intercom.io
+  jetbrains.ai
+  lgresearch.ai
+  lightning.ai
+  oaistatic.com
+  oaiusercontent.com
+  openai.com
+  openrouter.ai
+  recraft.ai
+  reve.art
+  sora.com
+  sonara.ai
+  support.anydesk.com
+  trae.ai
+  x.ai
+  manus.im
 
 # Google Services & APIs ####################################
-gvt1.com
-googleapis.com
-google.eu
-dl.google.com
-play.google.com
-play.googleapis.com
-play-fe.googleapis.com
-googleapis.cn
+  gvt1.com
+  googleapis.com
+  google.eu
+  dl.google.com
+  play.google.com
+  play.googleapis.com
+  play-fe.googleapis.com
+  googleapis.cn
 # Services & APIs ####################################
-ai.google.dev
-aisandbox-pa.googleapis.com
-aistudio.google.com
-alkalicore-pa.clients6.google.com
-alkalimakersuite-pa.clients6.google.com
-alkalimetricsink-pa.clients6.google.com
-android.googleapis.com
-apis.google.com
-appcatalyst.pa.googleapis.com
-assistant-s3-pa.googleapis.com
-clients4.google.com
-clientservices.googleapis.com
-cloud.google.com
-colab.research.google.com
-content-aisandbox-pa.googleapis.com
-content-autofill.googleapis.com
-content-people.googleapis.com
-developerprofiles-pa.googleapis.com
-gemini.google.com
-gemini.com
-generativelanguage.googleapis.com
-idx.google.com
-jules.google.com
-labs.google
-learning.google.com
-lookerstudio.google.com
-monospace-pa.clients6.google.com
-notebooklm.google
-notebooklm.google.com
-opal.google
-people-pa.clients6.google.com
-people-pa.googleapis.com
-proactivebackend-pa.googleapis.com
-scone-pa.clients6.google.com
-signaler-pa.clients6.google.com
-waa-pa.clients6.google.com
-webchannel-alkalimakersuite-pa.clients6.google.com
+  ai.google.dev
+  aisandbox-pa.googleapis.com
+  aistudio.google.com
+  alkalicore-pa.clients6.google.com
+  alkalimakersuite-pa.clients6.google.com
+  alkalimetricsink-pa.clients6.google.com
+  android.googleapis.com
+  apis.google.com
+  appcatalyst.pa.googleapis.com
+  assistant-s3-pa.googleapis.com
+  clients4.google.com
+  clientservices.googleapis.com
+  cloud.google.com
+  colab.research.google.com
+  content-aisandbox-pa.googleapis.com
+  content-autofill.googleapis.com
+  content-people.googleapis.com
+  developerprofiles-pa.googleapis.com
+  gemini.google.com
+  gemini.com
+  generativelanguage.googleapis.com
+  idx.google.com
+  jules.google.com
+  labs.google
+  learning.google.com
+  lookerstudio.google.com
+  monospace-pa.clients6.google.com
+  notebooklm.google
+  notebooklm.google.com
+  opal.google
+  people-pa.clients6.google.com
+  people-pa.googleapis.com
+  proactivebackend-pa.googleapis.com
+  scone-pa.clients6.google.com
+  signaler-pa.clients6.google.com
+  waa-pa.clients6.google.com
+  webchannel-alkalimakersuite-pa.clients6.google.com
 
 # Security / AV / Networking Vendors ####################################
-arkoselabs.com
-avast.com
-avast.ru
-avg.com
-avira-update.com
-avira.com
-bitdefender.com
-bitdefender.net
-cisco.com
-ciscobinary.openh264.org
-clamav.net
-clamwin.com
-diabrowser.com
-emsisoft.com
-immunet.com
-malwarebytes.com
-norton.com
-nortoncdn.com
-nortonlifelock.com
-pandasecurity.com
-pandasoftware.com
-protechts.net
-sophos.com
-sophosupd.com
-sophosxl.net
-sourcefire.com
-symantec.com
-symantecliveupdate.com
-vyos.io
-virustotal.com
-qwant.com
+  arkoselabs.com
+  avast.com
+  avast.ru
+  avg.com
+  avira-update.com
+  avira.com
+  bitdefender.com
+  bitdefender.net
+  cisco.com
+  ciscobinary.openh264.org
+  clamav.net
+  clamwin.com
+  diabrowser.com
+  emsisoft.com
+  immunet.com
+  malwarebytes.com
+  norton.com
+  nortoncdn.com
+  nortonlifelock.com
+  pandasecurity.com
+  pandasoftware.com
+  protechts.net
+  sophos.com
+  sophosupd.com
+  sophosxl.net
+  sourcefire.com
+  symantec.com
+  symantecliveupdate.com
+  vyos.io
+  virustotal.com
+  qwant.com
 
 # DevOps ####################################
 #debian.org
@@ -134,49 +134,45 @@ miro.com
 mirostatic.com
 cdn.powershellgallery.com
 
-whatsapp.net
-cdn.whatsapp.net
-whatsapp.com
-
 # Drivers ####################################
 # UniFi ####################################
-ui.com
-ubnt.com
-stun.cloudflare.com
-turn.cloudflare.com
+  ui.com
+  ubnt.com
+  stun.cloudflare.com
+  turn.cloudflare.com
 # Synology ####################################
-gofile.me
-quickconnect.to
-synology.com
-synologydownload.com
-synologyupdate.com
 #synocommunity.com
+  gofile.me
+  quickconnect.to
+  synology.com
+  synologydownload.com
+  synologyupdate.com
 # ####################################
-4pda.to
-canon
-cd4o.com
-ftp.hp.com
-dlcdnets.asus.com
-download.lenovo.com
-home-assistant.io
+  4pda.to
+  canon.com
+  cd4o.com
+  ftp.hp.com
+  dlcdnets.asus.com
+  download.lenovo.com
+  home-assistant.io
 #tuyaeu.com
 #iot334.com
-iotbing.com
-dell.com
-developers.bas-ip.com
-domoticz.com
-insanelymac.com
-intel.com
-logiwebconnect.com
-macports.org
-openh264.org
-tonymacx86.com
-xerox.com
-zerotier.com
+  iotbing.com
+  dell.com
+  developers.bas-ip.com
+  domoticz.com
+  insanelymac.com
+  intel.com
+  logiwebconnect.com
+  macports.org
+  openh264.org
+  tonymacx86.com
+  xerox.com
+  zerotier.com
 
 # AI ####################################
 #perplexity.ai
-browser-intake-datadoghq.com
+  browser-intake-datadoghq.com
 
 # Youtube google ####################################
 #youtube.com
@@ -204,30 +200,32 @@ browser-intake-datadoghq.com
 #twitter.com
 #x.com
 #t.co
-cdninstagram.com
-conversionsapigateway.com
-facebook.com
-facebook.net
-facebookvirtualassistant.com
-fb.com
-fbcdn.net
-ig.me
-instagram.com
-licdn.com
-linkedin.com
-messenger.com
-meta.com
-oculus.com
-oculuscdn.com
-oculusvr.com
-theins.ru
-viewpointsfromfacebook.com
-viber.com
-vb.me
-whatsapp.com
-whatsapp.net
-wa.me
-deovr.com
+  cdninstagram.com
+  conversionsapigateway.com
+  facebook.com
+  facebook.net
+  facebookvirtualassistant.com
+  fb.com
+  fbcdn.net
+  ig.me
+  instagram.com
+  licdn.com
+  linkedin.com
+  messenger.com
+  meta.com
+  oculus.com
+  oculuscdn.com
+  oculusvr.com
+  deovr.com
+  theins.ru
+  viewpointsfromfacebook.com
+# viber ####################################
+  viber.com
+  vb.me
+# whatsapp ####################################
+  whatsapp.com
+  whatsapp.net
+  wa.me
 
 # Apple ####################################
 #apple.com
@@ -250,55 +248,55 @@ deovr.com
 #aaplimg.com
 
 # Discord ####################################
-discord.com
-cdn.discordapp.com
-discordapp.net
-click.discord.com
-hcaptcha.com
-discord.gg
+  discord.com
+  cdn.discordapp.com
+  discordapp.net
+  click.discord.com
+  hcaptcha.com
+  discord.gg
 
 # GS AMCO ####################################
-wialon.com
-notion.so
-notion-static.com
-notion.com
-notion.new
-notion.site
-smartsheet.com
-smar.cloud
-stripe.com
-commandbar.com
-paddle.com
-paddle.net
+  wialon.com
+  notion.so
+  notion-static.com
+  notion.com
+  notion.new
+  notion.site
+  smartsheet.com
+  smar.cloud
+  stripe.com
+  commandbar.com
+  paddle.com
+  paddle.net
 #livedune.com
-mandrillapp.com
+  mandrillapp.com
 
 # Telegram ####################################
-telegram.org
-cdn-telegram.org
-comments.app
-contest.com
-fragment.com
-graph.org
-quiz.directory
-t.me
-tdesktop.com
-telega.one
-telegra.ph
-telegram-cdn.org
-telegram.dog
-telegram.me
-telegram.space
-telesco.pe
-tg.dev
-tx.me
-usercontent.dev
+  telegram.org
+  cdn-telegram.org
+  comments.app
+  contest.com
+  fragment.com
+  graph.org
+  quiz.directory
+  t.me
+  tdesktop.com
+  telega.one
+  telegra.ph
+  telegram-cdn.org
+  telegram.dog
+  telegram.me
+  telegram.space
+  telesco.pe
+  tg.dev
+  tx.me
+  usercontent.dev
 
 # Winstore downloader ####################################
-store.rg-adguard.net
+  store.rg-adguard.net
 
 # 1C Download ####################################
-workupload.com 
+  workupload.com 
 
 byteoversea.com
 muscdn.com
@@ -317,73 +315,73 @@ p16-tiktokcdn-com.akamaized.net
 theaudiodb.com
 
 # Cinema ####################################
-anilibria.tv
-anime-bit.org
-anime777.online
-animego.online
-animegood.icu
-animekun.ru
-animeonlinesu.net
-animeshka.net
-animestars.org
-animevost.org
-archiveofourown.org
-arm.haglund.dev
-bwa.pages.dev
-bwa.to
-cub.red
-cub.rip
-filmix.ac
-filmix.fun
-filmix.love
-filmix.my
-filmix.tech
-filmixapp.cyou
-filmixapp.vip
-filmozavr.ru
-hdrezka.me
-kino.pub
-kinovibe.co
-kinozal.tv
-lampa.stream
-metaivi.com
-skaz.tv
-themoviedb.org
-tmdb-image-prod.b-cdn.net
-tmdb.org
-yummyani.me
+  anilibria.tv
+  anime-bit.org
+  anime777.online
+  animego.online
+  animegood.icu
+  animekun.ru
+  animeonlinesu.net
+  animeshka.net
+  animestars.org
+  animevost.org
+  archiveofourown.org
+  arm.haglund.dev
+  bwa.pages.dev
+  bwa.to
+  cub.red
+  cub.rip
+  filmix.ac
+  filmix.fun
+  filmix.love
+  filmix.my
+  filmix.tech
+  filmixapp.cyou
+  filmixapp.vip
+  filmozavr.ru
+  hdrezka.me
+  kino.pub
+  kinovibe.co
+  kinozal.tv
+  lampa.stream
+  metaivi.com
+  skaz.tv
+  themoviedb.org
+  tmdb-image-prod.b-cdn.net
+  tmdb.org
+  yummyani.me
 
 # Torrent ####################################
-bitru.org
-booktracker.org
-ficbook.net
-nnmclub.to
-nnmstatic.win
-rutor.info
-rutracker.net
-rutracker.org
-rutrk.org
-rutracker.cc
-skladchik.com
-torlook.info
+  bitru.org
+  booktracker.org
+  ficbook.net
+  nnmclub.to
+  nnmstatic.win
+  rutor.info
+  rutracker.net
+  rutracker.org
+  rutrk.org
+  rutracker.cc
+  skladchik.com
+  torlook.info
 
 # soft AB ####################################
-askubuntu.com
-brawlstarsgame.com
-digitalocean.com
-dpidetector.org
-fonts.com
-medium.com
-myfonts.com
-ntc.party
-remove.bg
-stackoverflow.com
-trello.com
+  askubuntu.com
+  brawlstarsgame.com
+  digitalocean.com
+  dpidetector.org
+  fonts.com
+  medium.com
+  myfonts.com
+  ntc.party
+  remove.bg
+  stackoverflow.com
+  trello.com
 
 # Spotify ####################################
-spotify.com
-tospotify.com
-spotifycdn.com
+  spotify.com
+  tospotify.com
+  spotifycdn.com
 
 # XXX ####################################
 #pornhub.com
