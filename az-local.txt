@@ -25,8 +25,6 @@ userapi.com
 
 thunderbird.net
 mozilla.org
-githubassets.com
-githubusercontent.com
 
 # DevOps
 mitmproxy.org
@@ -35,6 +33,10 @@ regex101.com
 docker.com
 docker.io
 dockerstatic.com
+# Git
+githubassets.com
+githubusercontent.com
+
 
 # Akamai
 #akadns.net
