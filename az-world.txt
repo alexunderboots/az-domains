@@ -130,6 +130,7 @@ qwant.com
 #githubusercontent.com
 #github.com
 cdn.jsdelivr.net
+jsdelivr.map.fastly.net
 
 # huaway appgallery
 #appfinder.online
