@@ -15,7 +15,7 @@ play.googleapis.com
 play-fe.googleapis.com
 googleapis.cn
 
-# AI / LLM / Support
+# AI / LLM / Support ####################################
 anthropic.com
 auth.grokusercontent.com
 augmentcode.com
@@ -48,7 +48,7 @@ trae.ai
 x.ai
 manus.im
 
-# Google Services & APIs
+# Google Services & APIs ####################################
 ai.google.dev
 aisandbox-pa.googleapis.com
 aistudio.google.com
@@ -87,7 +87,7 @@ signaler-pa.clients6.google.com
 waa-pa.clients6.google.com
 webchannel-alkalimakersuite-pa.clients6.google.com
 
-# Security / AV / Networking Vendors
+# Security / AV / Networking Vendors ####################################
 arkoselabs.com
 avast.com
 avast.ru
@@ -120,7 +120,7 @@ vyos.io
 virustotal.com
 qwant.com
 
-# Debian
+# DevOps ####################################
 #debian.org
 #debian.map.fastlydns.net
 #docker.com
@@ -146,13 +146,13 @@ whatsapp.net
 cdn.whatsapp.net
 whatsapp.com
 
-# Drivers
-# UniFi
+# Drivers ####################################
+# UniFi ####################################
 ui.com
 ubnt.com
 stun.cloudflare.com
 turn.cloudflare.com
-# Synology
+# Synology ####################################
 gofile.me
 quickconnect.to
 synology.com
@@ -181,11 +181,11 @@ tonymacx86.com
 xerox.com
 zerotier.com
 
-# AI
+# AI ####################################
 #perplexity.ai
 browser-intake-datadoghq.com
 
-# Youtube google
+# Youtube google ####################################
 #youtube.com
 #youtube.ru
 #youtu.be
@@ -206,7 +206,7 @@ browser-intake-datadoghq.com
 #google.dev
 ##connectivitycheck.gstatic.com
 
-# Facebook Insta (Meta)
+# Facebook Insta (Meta) ####################################
 #twimg.com
 #twitter.com
 #x.com
@@ -236,12 +236,12 @@ whatsapp.net
 wa.me
 deovr.com
 
-# Apple
+# Apple ####################################
 #apple.com
 #appleid.cdn-apple.com
 #icloud.com
 
-# Applemusic
+# Applemusic ####################################
 #aod-ssl.itunes.apple.com
 #aod.itunes.apple.com
 #audio-ssl.itunes.apple.com
@@ -252,11 +252,11 @@ deovr.com
 #blobstore.apple.com
 #music.apple.com
 
-# Aerial dream
+# Aerial dream ####################################
 #sylvan.apple.com
 #aaplimg.com
 
-# Discord
+# Discord ####################################
 discord.com
 cdn.discordapp.com
 discordapp.net
@@ -264,7 +264,7 @@ click.discord.com
 hcaptcha.com
 discord.gg
 
-# GS AMCO
+# GS AMCO ####################################
 wialon.com
 notion.so
 notion-static.com
@@ -280,7 +280,7 @@ paddle.net
 #livedune.com
 mandrillapp.com
 
-# Telegram
+# Telegram ####################################
 telegram.org
 cdn-telegram.org
 comments.app
@@ -301,10 +301,10 @@ tg.dev
 tx.me
 usercontent.dev
 
-# Winstore downloader
+# Winstore downloader ####################################
 store.rg-adguard.net
 
-# Download 1c
+# Download 1c ####################################
 workupload.com 
 
 byteoversea.com
@@ -323,7 +323,7 @@ ttwstatic.com
 p16-tiktokcdn-com.akamaized.net
 theaudiodb.com
 
-# Cinema
+# Cinema ####################################
 anilibria.tv
 anime-bit.org
 anime777.online
@@ -360,7 +360,7 @@ tmdb-image-prod.b-cdn.net
 tmdb.org
 yummyani.me
 
-# Torrent
+# Torrent ####################################
 bitru.org
 booktracker.org
 ficbook.net
@@ -374,8 +374,7 @@ rutracker.cc
 skladchik.com
 torlook.info
 
-# soft AB
-##########################################
+# soft AB ####################################
 askubuntu.com
 brawlstarsgame.com
 digitalocean.com
@@ -388,12 +387,12 @@ remove.bg
 stackoverflow.com
 trello.com
 
-# Spotify
+# Spotify ####################################
 spotify.com
 tospotify.com
 spotifycdn.com
 
-# XXX
+# XXX ####################################
 #pornhub.com
 #pornhub.org
 #phncdn.com
