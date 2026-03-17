@@ -42,6 +42,7 @@ unifi.itstroy.pro
   githubusercontent.com
 # ####################################
   drawio-app.com
+  grist-static.com
 
 # Drivers HW ####################################
 # sipeed ####################################
