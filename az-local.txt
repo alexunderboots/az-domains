@@ -31,18 +31,20 @@ unifi.itstroy.pro
   torrs.ru
 
 # DevOps ####################################
-  mitmproxy.org
-  proxmox.com
-  regex101.com
-  docker.com
-  docker.io
-  dockerstatic.com
 # Git ####################################
   githubassets.com
   githubusercontent.com
 # ####################################
   drawio-app.com
   grist-static.com
+  linphone.org
+  mitmproxy.org
+  proxmox.com
+  regex101.com
+  docker.com
+  docker.io
+  dockerstatic.com
+
 
 # Drivers HW ####################################
 # sipeed ####################################
