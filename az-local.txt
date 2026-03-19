@@ -78,3 +78,6 @@ unifi.itstroy.pro
 #vkontakte.ru
 #okcdn.ru
   userapi.com
+
+# GS AMCO ####################################
+  cdoc.tatar.ru
