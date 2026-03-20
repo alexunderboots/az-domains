@@ -81,3 +81,4 @@ unifi.itstroy.pro
 
 # GS AMCO ####################################
   cdoc.tatar.ru
+  pact.im
