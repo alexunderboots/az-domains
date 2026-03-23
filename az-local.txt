@@ -53,6 +53,7 @@ unifi.itstroy.pro
 # ####################################
   blikvm.com
   qiniudns.com
+  support.dlink.com
   xpenology.tech
 
 # spotify ####################################
