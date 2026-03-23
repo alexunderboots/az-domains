@@ -1,5 +1,6 @@
 2ip.io
 ru-board.com
+xdaforums.com
 
 # AI / LLM / Support ####################################
   anthropic.com
