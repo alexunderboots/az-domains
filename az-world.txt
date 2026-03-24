@@ -165,6 +165,7 @@ cdn.powershellgallery.com
   domoticz.com
   insanelymac.com
   intel.com
+  kyoceradocumentsolutions.eu
   logiwebconnect.com
   macports.org
   openh264.org
