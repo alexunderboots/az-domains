@@ -259,6 +259,7 @@ cdn.powershellgallery.com
   discord.gg
 
 # GS AMCO ####################################
+  quire.io
   wialon.com
   notion.so
   notion-static.com
