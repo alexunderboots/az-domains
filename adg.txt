@@ -1,4 +1,5 @@
-||ntc.party^$dnsrewrite=130.255.77.28,client=az-local,important
+||ntc.party^$dnsrewrite=130.255.77.28,important
+# client=az-local,
 
 # UniFi Update
 # https://unifi.gryzlov.com/
