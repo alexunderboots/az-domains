@@ -353,6 +353,7 @@ theaudiodb.com
   themoviedb.org
   tmdb-image-prod.b-cdn.net
   tmdb.org
+  tmdb.torrs.ru
   yummyani.me
 
 # Torrent ####################################
