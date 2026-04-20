@@ -45,6 +45,7 @@ xdaforums.com
   play-fe.googleapis.com
   googleapis.cn
 # Services & APIs ####################################
+  accounts.google.ru
   ai.google.dev
   aisandbox-pa.googleapis.com
   aistudio.google.com
