@@ -369,6 +369,7 @@ theaudiodb.com
   rutracker.net
   rutracker.org
   rutrk.org
+  static.rutracker.cc
   rutracker.cc
   skladchik.com
   torlook.info
