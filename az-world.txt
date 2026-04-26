@@ -353,6 +353,7 @@ theaudiodb.com
   metaivi.com
   skaz.tv
   themoviedb.org
+  readme.io
   tmdb-image-prod.b-cdn.net
   tmdb.org
   torrs.ru
