@@ -1,6 +1,5 @@
 # http://az-local.antizapret/list/?url=https://raw.githubusercontent.com/alexunderboots/az-domains/main/az-local.txt
 reddit.com
-imap.gmail.com
 
 unifi.alexunderboots.ru
 unifi.sc-gs.ru
