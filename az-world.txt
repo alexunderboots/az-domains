@@ -107,6 +107,7 @@ xdaforums.com
   pandasecurity.com
   pandasoftware.com
   protechts.net
+  rspamd.com
   sophos.com
   sophosupd.com
   sophosxl.net
