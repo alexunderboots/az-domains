@@ -76,10 +76,10 @@ unifi.itstroy.pro
   xvideos-cdn.com
 
 # VK ####################################
-#vk.com
-#vkontakte.ru
-#okcdn.ru
-  userapi.com
+#  vk.com
+#  vkontakte.ru
+#  okcdn.ru
+#  userapi.com
 
 # GS AMCO ####################################
   cdoc.tatar.ru
