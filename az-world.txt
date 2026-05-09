@@ -151,6 +151,9 @@ cdn.powershellgallery.com
   synology.com
   synologydownload.com
   synologyupdate.com
+# logitech
+  logiwebconnect.com
+  t-assets.net
 # ####################################
   4pda.to
   canon.com
@@ -168,7 +171,6 @@ cdn.powershellgallery.com
   insanelymac.com
   intel.com
   kyoceradocumentsolutions.eu
-  logiwebconnect.com
   macports.org
   openh264.org
   tonymacx86.com
