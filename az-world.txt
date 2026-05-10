@@ -360,6 +360,7 @@ theaudiodb.com
   tmdb-image-prod.b-cdn.net
   tmdb.org
   torrs.ru
+  trakt.tv
   yummyani.me
   yourok.ru
 
