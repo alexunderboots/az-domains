@@ -2,6 +2,11 @@
 ru-board.com
 xdaforums.com
 
+# Aliexpress ####################################
+  alicdn.com
+  alibaba.com
+  aliexpress-media.com
+
 # AI / LLM / Support ####################################
   anthropic.com
   auth.grokusercontent.com
