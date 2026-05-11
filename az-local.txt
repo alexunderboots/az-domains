@@ -12,7 +12,8 @@ unifi.itstroy.pro
 
 # Aliexpress ####################################
   alicdn.com
-  assets.aliexpress-media.com
+  alibaba.com
+  aliexpress-media.com
 
 # Apple ####################################
 #apple.com
