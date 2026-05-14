@@ -346,7 +346,6 @@ theaudiodb.com
   cdn.hikka.io
   cub.red
   cub.rip
-  fastpic.org
   filmix.ac
   filmix.fun
   filmix.love
@@ -375,6 +374,7 @@ theaudiodb.com
 # Torrent ####################################
   bitru.org
   booktracker.org
+  fastpic.org
   ficbook.net
   nnmclub.to
   nnmstatic.win
