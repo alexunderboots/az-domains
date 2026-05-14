@@ -346,6 +346,7 @@ theaudiodb.com
   cdn.hikka.io
   cub.red
   cub.rip
+  fastpic.org
   filmix.ac
   filmix.fun
   filmix.love
