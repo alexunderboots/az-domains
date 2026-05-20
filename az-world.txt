@@ -39,6 +39,22 @@ xdaforums.com
   trae.ai
   x.ai
   manus.im
+# Gemini
+  gemini.google.com
+  aistudio.google.com
+  generativelanguage.googleapis.com
+  aitestkitchen.withgoogle.com
+  aisandbox-pa.googleapis.com
+  webchannel-alkalimakersuite-pa.clients6.google.com
+  alkalimakersuite-pa.clients6.google.com
+  assistant-s3-pa.googleapis.com
+  proactivebackend-pa.googleapis.com
+  robinfrontend-pa.googleapis.com
+  o.pki.goog
+  labs.google
+  notebooklm.google.com
+  jules.google.com
+  stitch.withgoogle.com
 
 # Google Services & APIs ####################################
   gvt1.com
