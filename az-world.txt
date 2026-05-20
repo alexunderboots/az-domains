@@ -1,6 +1,7 @@
 2ip.io
 ru-board.com
 xdaforums.com
+localsend.org
 
 # Aliexpress ####################################
   alicdn.com
