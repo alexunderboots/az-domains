@@ -150,6 +150,8 @@ localsend.org
 # BentoPDF ####################################
 #cdn.jsdelivr.net
 #jsdelivr.map.fastly.net
+#
+cgr.dev
 
 # huaway appgallery
 #appfinder.online
