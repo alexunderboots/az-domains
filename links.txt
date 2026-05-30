@@ -1,1 +1,8 @@
 https://github.com/123jjck/cdn-ip-ranges
+https://bitbucket.org/anticensority/antizapret-vpn-container/src/master/
+https://github.com/v2fly/domain-list-community/tree/master/data
+https://github.com/MetaCubeX/meta-rules-dat/blob/sing/geo/geosite/signal.json
+https://iplist.opencck.org/
+https://github.com/v2fly/domain-list-community
+https://github.com/1andrevich/Re-filter-lists
+https://github.com/itdoginfo/allow-domains/blob/main/Categories/porn.lst
