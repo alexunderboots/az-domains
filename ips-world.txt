@@ -1,3 +1,5 @@
+#https://github.com/123jjck/cdn-ip-ranges
+
 #Telegram (https://core.telegram.org/resources/cidr.txt) + AS62041 + AS1273
 91.108.56.0/22
 91.108.4.0/22
