@@ -152,6 +152,7 @@ localsend.org
 #jsdelivr.map.fastly.net
 #
 cgr.dev
+get.activated.win
 
 # huaway appgallery
 #appfinder.online
