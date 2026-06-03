@@ -393,7 +393,12 @@ theaudiodb.com
 
 # OpenSpot apk ####################################
   c.saavncdn.com
+  saavncdn.com
+  aac.saavncdn.com
   kworb.net
+  nextjs-proxy-gamma.vercel.app
+  jiosaavn.com
+  
 
 # Torrent ####################################
   bitru.org
