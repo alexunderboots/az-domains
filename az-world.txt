@@ -391,6 +391,10 @@ theaudiodb.com
   yummyani.me
   yourok.ru
 
+# OpenSpot apk ####################################
+  c.saavncdn.com
+  kworb.net
+
 # Torrent ####################################
   bitru.org
   booktracker.org
