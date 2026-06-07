@@ -10,7 +10,7 @@
 ||apt-release-candidate.artifacts.ui.com^$dnsrewrite=144.31.7.113,important
 ||apt-beta.artifacts.ui.com^$dnsrewrite=144.31.7.113,important
 
-#gemini
+# gemini
 #https://github.com/remittor/zapret-openwrt/issues/695
 #https://github.com/Flowseal/zapret-discord-youtube/issues/11331 +chatgpt
 #https://github.com/naem53/ubnt-update
@@ -29,3 +29,6 @@
 ||notebooklm.google.com^$dnsrewrite=144.31.7.113,important
 ||jules.google.com^$dnsrewrite=144.31.7.113,important
 ||stitch.withgoogle.com^$dnsrewrite=144.31.7.113,important
+
+# github
+||raw.githubusercontent.com^$dnsrewrite=144.31.7.113,important
