@@ -176,6 +176,7 @@ cdn.powershellgallery.com
   synology.com
   synologydownload.com
   synologyupdate.com
+  auxxxilium.tech
 # logitech
   logiwebconnect.com
   t-assets.net
