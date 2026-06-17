@@ -2,6 +2,7 @@
 ru-board.com
 xdaforums.com
 localsend.org
+recaptcha.net
 
 # Aliexpress ####################################
   alicdn.com
