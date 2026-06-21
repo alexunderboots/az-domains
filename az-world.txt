@@ -397,6 +397,7 @@ theaudiodb.com
   yummyani.me
   yourok.ru
   potok.rip
+  zastoy.life
 
 # OpenSpot apk ####################################
   c.saavncdn.com
