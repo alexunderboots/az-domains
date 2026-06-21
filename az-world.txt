@@ -396,6 +396,7 @@ theaudiodb.com
   trakt.tv
   yummyani.me
   yourok.ru
+  potok.rip
 
 # OpenSpot apk ####################################
   c.saavncdn.com
