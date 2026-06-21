@@ -179,6 +179,7 @@ cdn.powershellgallery.com
   synologyupdate.com
   auxxxilium.tech
 # zimaOS
+  zimaspace.com
   zima-client.r2.icewhale.io
 # logitech
   logiwebconnect.com
