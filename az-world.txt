@@ -168,6 +168,7 @@ cdn.powershellgallery.com
 # UniFi ####################################
   ui.com
   ubnt.com
+  wifiman.com
   stun.cloudflare.com
   turn.cloudflare.com
 # Synology ####################################
