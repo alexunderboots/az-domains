@@ -4,6 +4,8 @@
 # https://unifi.gryzlov.com/
 ||*.ubnt.com^$dnsrewrite=144.31.7.113,important
 ||*.ui.com^$dnsrewrite=144.31.7.113,important
+||ubnt.com^$dnsrewrite=144.31.7.113,important
+||ui.com^$dnsrewrite=144.31.7.113,important
 ||fw-download.ubnt.com^$dnsrewrite=144.31.7.113,important
 ||fw-update.ubnt.com^$dnsrewrite=144.31.7.113,important
 ||fw-update.ui.com^$dnsrewrite=144.31.7.113,important
