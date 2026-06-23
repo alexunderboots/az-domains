@@ -196,8 +196,8 @@ cdn.powershellgallery.com
 
 # Drivers ####################################
 # UniFi ####################################
-  ui.com
-  ubnt.com
+#  ui.com
+#  ubnt.com
   wifiman.com
   stun.cloudflare.com
   turn.cloudflare.com
