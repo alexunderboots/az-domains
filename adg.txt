@@ -9,6 +9,7 @@
 ||apt.artifacts.ui.com^$dnsrewrite=144.31.7.113,important
 ||apt-release-candidate.artifacts.ui.com^$dnsrewrite=144.31.7.113,important
 ||apt-beta.artifacts.ui.com^$dnsrewrite=144.31.7.113,important
+||sp-dir.uwn.com^$dnsrewrite=144.31.7.113,important
 
 # gemini
 #https://github.com/remittor/zapret-openwrt/issues/695
