@@ -1,4 +1,15 @@
 # http://az-local.antizapret/list/?url=https://raw.githubusercontent.com/alexunderboots/az-domains/main/az-local.txt
+
+# https://bitbucket.org/anticensority/antizapret-vpn-container/src/master/
+# https://github.com/v2fly/domain-list-community/tree/master/data
+# https://github.com/MetaCubeX/meta-rules-dat/blob/sing/geo/geosite/signal.json
+# https://iplist.opencck.org/
+# https://github.com/v2fly/domain-list-community
+# https://github.com/1andrevich/Re-filter-lists
+# https://github.com/itdoginfo/allow-domains/blob/main/Categories/porn.lst
+
+# https://habr.com/ru/articles/775110/
+# https://habr.com/ru/articles/549282/
 reddit.com
 
 unifi.alexunderboots.ru
