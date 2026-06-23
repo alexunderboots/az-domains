@@ -5,33 +5,34 @@ localsend.org
 recaptcha.net
 
 # wechat #########################################
-  wechat.com
-  qq.com
-  qq.com.cn
-  qpic.cn
-  gtimg.cn
-  idqqimg.com
-  weixin.com
-  tencent.com
-  myqcloud.com
-  res.servicewechat.com
-  shp.qlogo.cn
-  wx.qlogo.cn
-  cwx.qlogo.cn
-  resstatic.servicewechat.com
-  cube.weixinbridge.com
-  p.qlogo.cn
-  rescdn.qqmail.com
-  tencent-doc.cdn-go.cn
-  cdn-go.cn
-  alloyteam-cdn.cdn-go.cn
-  alloyreport.cdn-go.cn
-  docs.gtimg.com
-  s.url.cn
-  merge.report.url.cn
-  livepush.wxworklive.com
-  liveplay.wxworklive.com
-  liveplayx.wxworklive.com
+# https://github.com/MetaCubeX/meta-rules-dat/blob/sing/geo/geosite/tencent.json
+#  wechat.com
+#  qq.com
+#  qq.com.cn
+#  qpic.cn
+#  gtimg.cn
+#  idqqimg.com
+#  weixin.com
+#  tencent.com
+#  myqcloud.com
+#  res.servicewechat.com
+#  shp.qlogo.cn
+#  wx.qlogo.cn
+#  cwx.qlogo.cn
+#  resstatic.servicewechat.com
+#  cube.weixinbridge.com
+#  p.qlogo.cn
+#  rescdn.qqmail.com
+#  tencent-doc.cdn-go.cn
+#  cdn-go.cn
+#  alloyteam-cdn.cdn-go.cn
+#  alloyreport.cdn-go.cn
+#  docs.gtimg.com
+#  s.url.cn
+#  merge.report.url.cn
+#  livepush.wxworklive.com
+#  liveplay.wxworklive.com
+#  liveplayx.wxworklive.com
 
 # Aliexpress ####################################
   alicdn.com
