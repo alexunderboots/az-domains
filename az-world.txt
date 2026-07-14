@@ -429,6 +429,8 @@ theaudiodb.com
   yourok.ru
   potok.rip
   zastoy.life
+# torserv
+  cdn.lordicon.com
 
 # OpenSpot apk ####################################
   c.saavncdn.com
