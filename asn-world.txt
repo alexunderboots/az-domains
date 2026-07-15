@@ -1,7 +1,7 @@
-Telegram
+#Telegram
 
 Amazon
-Cloudflare
+#Cloudflare
 Shopify
 Hetzner
 DigitalOcean
@@ -11,7 +11,7 @@ Oracle
 Vultr
 Scaleway
 OVH
-Akamai
+#Akamai
 /cdn77|datacamp/
 
 #Apple
