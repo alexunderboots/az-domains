@@ -1,7 +1,7 @@
-
+Telegram
 
 Amazon
-
+Cloudflare
 Shopify
 Hetzner
 DigitalOcean
@@ -11,8 +11,9 @@ Oracle
 Vultr
 Scaleway
 OVH
-
+#Akamai
 /cdn77|datacamp/
 
+#Apple
 Meta
 Facebook
