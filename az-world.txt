@@ -187,6 +187,7 @@ get.activated.win
 
 # huaway appgallery
 #appfinder.online
+termux.net
 
 amazonaws.com
 www.stickypassword.com.cdn.cloudflare.net
