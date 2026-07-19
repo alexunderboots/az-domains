@@ -45,6 +45,7 @@ unifi.itstroy.pro
 # DevOps ####################################
   debian.org
 # Git ####################################
+  github.com
   githubassets.com
   githubusercontent.com
 # ####################################
