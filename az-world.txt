@@ -172,12 +172,16 @@ recaptcha.net
   qwant.com
 
 # DevOps ####################################
-#debian.org
-#debian.map.fastlydns.net
-#docker.com
-#docker.io
-#dockerstatic.com
-#proxmox.com
+#  debian.org
+#  debian.map.fastlydns.net
+#  docker.com
+#  docker.io
+#  dockerstatic.com
+#  proxmox.com
+# Git ####################################
+  github.com
+  githubassets.com
+  githubusercontent.com
 # BentoPDF ####################################
 #cdn.jsdelivr.net
 #jsdelivr.map.fastly.net
