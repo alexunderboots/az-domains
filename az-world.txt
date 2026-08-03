@@ -301,9 +301,9 @@ perplexity.ai
   wa.me
 
 # Apple ####################################
-#apple.com
-#appleid.cdn-apple.com
-#icloud.com
+  apple.com
+  appleid.cdn-apple.com
+  icloud.com
 
 # Applemusic ####################################
 #aod-ssl.itunes.apple.com
