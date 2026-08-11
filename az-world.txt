@@ -338,6 +338,7 @@ perplexity.ai
   notion.site
   smartsheet.com
   amplitude.com
+  api2.amplitude.com
   smar.cloud
   stripe.com
   commandbar.com
