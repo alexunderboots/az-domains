@@ -172,7 +172,7 @@ recaptcha.net
   qwant.com
 
 # DevOps ####################################
-#  debian.org
+  debian.org
 #  debian.map.fastlydns.net
 #  docker.com
 #  docker.io
