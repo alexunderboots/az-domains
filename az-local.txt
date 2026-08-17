@@ -43,7 +43,7 @@ unifi.itstroy.pro
   torrs.ru
 
 # DevOps ####################################
-  debian.org
+#  debian.org
 # Git ####################################
   github.com
   githubassets.com
