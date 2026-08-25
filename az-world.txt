@@ -186,8 +186,9 @@ recaptcha.net
 #cdn.jsdelivr.net
 #jsdelivr.map.fastly.net
 #
-cgr.dev
-get.activated.win
+  quay.io
+  cgr.dev
+  get.activated.win
 
 # huaway appgallery
 #appfinder.online
