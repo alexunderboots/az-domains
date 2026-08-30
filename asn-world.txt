@@ -1,14 +1,14 @@
 Telegram
 
 Amazon
-Cloudflare
+#Cloudflare
 Shopify
 Hetzner
 DigitalOcean
 Contabo
 Oracle
 /\bg-?core\b/
-Vultr
+#Vultr
 Scaleway
 OVH
 #Akamai
