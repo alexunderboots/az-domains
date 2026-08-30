@@ -1,18 +1,18 @@
 Telegram
 
-Amazon
+#Amazon
 #Cloudflare
-Shopify
-Hetzner
-DigitalOcean
-Contabo
-Oracle
-/\bg-?core\b/
+#Shopify
+#Hetzner
+#DigitalOcean
+#Contabo
+#Oracle
+#/\bg-?core\b/
 #Vultr
-Scaleway
-OVH
+#Scaleway
+#OVH
 #Akamai
-/cdn77|datacamp/
+#/cdn77|datacamp/
 
 Apple
 Meta
