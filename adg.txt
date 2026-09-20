@@ -38,3 +38,4 @@
 
 # github
 ||raw.githubusercontent.com^$dnsrewrite=144.31.7.113,important
+||*.github.io^$dnsrewrite=144.31.7.113,important
