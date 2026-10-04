@@ -276,6 +276,8 @@ perplexity.ai
   apple.com
   appleid.cdn-apple.com
   icloud.com
+  aaplimg.com
+  mzstatic.com
 
 # Applemusic ####################################
 #aod-ssl.itunes.apple.com
