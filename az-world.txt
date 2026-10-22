@@ -200,7 +200,9 @@ cdn.powershellgallery.com
   dlcdnets.asus.com
   download.lenovo.com
   home-assistant.io
-#tuyaeu.com
+# IoT
+# tuyaeu.com
+  tuya.ai
 #iot334.com
   iotbing.com
   dell.com
