@@ -186,6 +186,7 @@ cdn.powershellgallery.com
   synologydownload.com
   synologyupdate.com
   auxxxilium.tech
+  arcdns.tech
 # zimaOS
   zimaspace.com
   zima-client.r2.icewhale.io
