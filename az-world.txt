@@ -223,25 +223,25 @@ perplexity.ai
   browser-intake-datadoghq.com
 
 # Youtube google ####################################
-  youtubei.googleapis.com
-  youtube.com
-  youtube.ru
-  youtu.be
-  yt.be
-  googlevideo.com
-  googleapis.com
-  googletagmanager.com
-  ytimg.com
-  google.com
-  google.ru
-  yt3.ggpht.com
-  play.google.com
-  gvt1.com
-  gvt2.com
-  gstatic.com
-  deepmind.com
-  deepmind.google
-  google.dev
+#  youtubei.googleapis.com
+#  youtube.com
+#  youtube.ru
+#  youtu.be
+#  yt.be
+#  googlevideo.com
+#  googleapis.com
+#  googletagmanager.com
+#  ytimg.com
+#  google.com
+#  google.ru
+#  yt3.ggpht.com
+#  play.google.com
+#  gvt1.com
+#  gvt2.com
+#  gstatic.com
+#  deepmind.com
+#  deepmind.google
+#  google.dev
 ##connectivitycheck.gstatic.com
 
 # Facebook Insta (Meta) ####################################
