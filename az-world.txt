@@ -441,6 +441,7 @@ theaudiodb.com
   rutracker.cc
   skladchik.com
   torlook.info
+  appstorrent.ru
 
 # soft AB ####################################
   askubuntu.com
