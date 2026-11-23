@@ -144,6 +144,7 @@ xdaforums.com
 
 # DevOps ####################################
   debian.org
+  ppa.launchpadcontent.net
 #  debian.map.fastlydns.net
 #  docker.com
 #  docker.io
