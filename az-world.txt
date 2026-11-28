@@ -150,6 +150,7 @@ xdaforums.com
 #  docker.io
 #  dockerstatic.com
 #  proxmox.com
+  lscr.io
 # Git ####################################
   github.com
   githubassets.com
